@@ -28,11 +28,11 @@ Launch solidity code in Remix IDE to deploy and run transactions on the blockcha
 
 Utilise Remix to interact with the smart contract. You can set accounts for the joint savings account and utilize the deposit and withdrawl smart contract. See example screenshots below:
 
-!['Set Accounts Function'](https://github.com/hugokos/pychain_ledger/blob/master/Streamlit_Screenshot.JPG)
+!['Set Accounts Function'](https://github.com/hugokos/solidity_savings_account_contract/blob/master/Execution_Results/setAccounts_function.png)
 
-!['Deposit Function'](https://github.com/hugokos/pychain_ledger/blob/master/Streamlit_Screenshot.JPG)
+!['Deposit Function'](https://github.com/hugokos/solidity_savings_account_contract/blob/master/Execution_Results/deposit_function.png)
 
-!['Withdraw Function'](https://github.com/hugokos/pychain_ledger/blob/master/Streamlit_Screenshot.JPG)
+!['Withdraw Function'](https://github.com/hugokos/solidity_savings_account_contract/blob/master/Execution_Results/withdraw_function.png)
 
 
 **Sample Code:**
